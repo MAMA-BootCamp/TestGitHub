@@ -24,17 +24,9 @@ The team agreed on guidelines to follow during development. The technologies and
 - **Local Storage:** To save some features and data into local browser.
 - **API:** To fetch the live data.
 
-## **User Stories** :books: <span id="stories"></span>
-
-#### As a User, I:
-
-
 ## **User Journey** :pencil2: <span id="journey"></span>
 
-
-
-
-## Running the project locally :hotel: <span id="usage"></span>
+# Running the project locally :hotel: <span id="usage"></span>
 
 ```
 - [git clone https://github.com/GSG-CF04/Climostate.git](https://github.com/GSG-CF05/CryptocurrencySite.git)
